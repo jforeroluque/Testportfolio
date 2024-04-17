@@ -74,27 +74,14 @@
 @keyframes profile__animate {
   0% {
     border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
-    box-shadow: inset 0 0 0 11px rgb(200, 200, 200, 0.5); 
-  }
-
-  25% {
-    border-radius: 40% 60% 70% 30%/50% 60% 40% 60%;
-    box-shadow: inset 0 0 0 11px rgb(150, 150, 150, 0.5); 
   }
 
   50% {
     border-radius: 30% 60% 70% 40%/50% 60% 30% 60%;
-    box-shadow: inset 0 0 0 11px rgb(100, 100, 100, 0.5); 
-  }
-
-  75% {
-    border-radius: 70% 30% 60% 40%/70% 30% 60% 40%;
-    box-shadow: inset 0 0 0 11px rgb(150, 150, 150, 0.5); 
   }
 
   100% {
     border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
-    box-shadow: inset 0 0 0 11px rgb(200, 200, 200, 0.5); 
   }
 }
 
