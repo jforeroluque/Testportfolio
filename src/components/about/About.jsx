@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Data Scientist and product manager. I develop high impact solutions with innovative products based in new technology, data and strategic alignment.
+            Data Scientist and Strategic product manager. I develop high impact solutions with innovative products based in new technology, data and strategic alignment.
           </p>
 
           <a download="" href={CV} className="button button--flex">
